@@ -22,4 +22,4 @@ te hace sacar canas, de los errores que vas encontrando y que los vas pudiendo s
 <h1>Participantes del Proyecto</h1>
 
 <h3>Biagini Valentin</h3>
-<a src="https://www.instagram.com/valen_biaginii/?hl=es-la">Instagram</a>
+<h3>Instagram: https://www.instagram.com/valen_biaginii/?hl=es-la</h3>
