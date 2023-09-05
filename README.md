@@ -18,3 +18,8 @@ El modelo de pagina que yo elegi fue este:https://www.behance.net/gallery/114814
 
 <p>Como experiencia personal, la verdad fue muy desafiante lanzarse a hacer algo solo, ya que en varias ocaciones pude hacer proytectos pero fueron en conjunto con otras personas y la verdad que hacerlo solo
 te hace sacar canas, de los errores que vas encontrando y que los vas pudiendo solucionar o que no y tenes que buscarle otra alternativa, pero en conclusion, me diverti mucho haciendo este proyecto final y gane mucho conocimiento autodidacta.</p>
+
+<h1>Participantes del Proyecto</h1>
+
+<h3>Biagini Valentin</h3>
+<a src="https://www.instagram.com/valen_biaginii/?hl=es-la">Instagram</a>
