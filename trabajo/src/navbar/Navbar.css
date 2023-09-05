@@ -2,15 +2,15 @@
 nav {
     background-color: #1e1b1b; 
     color: #fafafa;
-    padding: 10px 0;
+    padding: 0.625rem 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 1.25rem;
 }
 
 .logo a {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
     text-decoration: none;
     color: #fafafa;
@@ -19,25 +19,25 @@ nav {
 .navbar {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 1.25rem;
 }
 
 .navbar li a {
     text-decoration: none;
     color: #fafafa;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .navbar-icons {
     display: flex;
-    gap: 30px;
+    gap: 1.875rem;
     align-items: center;
 }
 
 .search-icon,
 .cart-icon {
-    width: 24px;
+    width: 1.5rem;
 }
 #search,
 #shop{
@@ -48,6 +48,6 @@ nav {
     text-decoration: none;
     color: #fafafa;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 1rem;
 }
 

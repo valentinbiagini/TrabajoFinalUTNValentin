@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 1.25rem;
     background-color: #050505;
     color: #fafafa;
 }
@@ -12,12 +12,12 @@
 }
 
 .info-text h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    font-size: 1.5rem;
+    margin-bottom: 0.625rem;
 }
 
 .info-text p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .info-image img {
@@ -28,17 +28,17 @@
 
 .subscribe-section {
     background-color: #a16236; 
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 .subscribe-section h3 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #fafafa;
 }
 
 form {
-    width: 750px;
-    gap: 25px;
+    width: 46.875rem;
+    gap: 1.5625rem;
 }
 .subscription-form{
     display: flex;
@@ -55,19 +55,19 @@ form {
 input[type="text"],
 input[type="email"] {
     width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    border: 1px solid #a16236;
-    border-radius: 5px;
+    padding: 0.625rem;
+    font-size: 1rem;
+    border: 0.0625rem solid #a16236;
+    border-radius: 0.3125rem;
 }
 
 button {
     background-color: #f3a447; 
     color: #1e1b1b;
-    font-size: 16px;
-    padding: 10px 20px;
+    font-size: 1rem;
+    padding: 0.625rem 1.25rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
     cursor: pointer;
     flex: 1;
 }

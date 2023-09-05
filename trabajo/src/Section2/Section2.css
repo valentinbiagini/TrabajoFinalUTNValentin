@@ -2,7 +2,7 @@
 .favorites-section {
     display: flex;
     justify-content: center;
-    padding: 20px;
+    padding: 1.25rem;
     flex-wrap: wrap;
     background-color: #050505;
 }
@@ -12,17 +12,17 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
 }
 
 .section-header h2 {
-    font-size: 30px;
+    font-size: 1.875rem;
     margin: 0;
     color: #fafafa;
 }
 
 .section-header a {
-    font-size: 16px;
+    font-size: 1rem;
     text-decoration: none;
     color: #fafafa; 
 }
@@ -30,18 +30,18 @@
 /* Estilos para las categorías */
 .categories {
     flex: 1;
-    margin-right: 0px;
+    margin-right: 0rem;
     color: #fafafa;
 }
 
 .category h3 {
-    font-size: 50px;
-    margin-bottom: 10px;
+    font-size: 3.125rem;
+    margin-bottom: 0.625rem;
     color: #fafafa;
 }
 
 .category li {
-    font-size: 25px;
+    font-size: 1.5625rem;
     list-style: none;
 }
 
@@ -49,12 +49,12 @@
 .product-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
-    gap: 20px;
+    gap: 1.25rem;
     flex: 2;
 }
 
 .product-card {
-    padding: 20px;
+    padding: 1.25rem;
     text-align: center;
     background-color: #1e1b1b;
 }
@@ -64,38 +64,38 @@
 }
 
 .product-card h3 {
-    font-size: 18px;
-    margin: 10px 0;
+    font-size: 1.125rem;
+    margin: 0.625rem 0;
     color: #fafafa;
 }
 
 .product-card p {
-    font-size: 16px;
-    margin: 10px 0;
+    font-size: 1rem;
+    margin: 0.625rem 0;
     color: #fafafa;
 }
 
 .product-card select {
     width: 25%;
-    padding: 10px;
-    font-size: 16px;
-    border: 3px solid #a16236;
-    border-radius: 5px;
-    margin: 10px 0;
+    padding: 0.625rem;
+    font-size: 1rem;
+    border: 0.1875rem solid #a16236;
+    border-radius: 0.3125rem;
+    margin: 0.625rem 0;
 }
 
 .product-card button {
     background-color: #a16236;
     color: #050505;
-    font-size: 16px;
-    padding: 10px 20px;
+    font-size: 1rem;
+    padding: 0.625rem 1.25rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
     cursor: pointer;
 }
 
 .product-card .precio {
-    font-size: 18px;
+    font-size: 1.125rem;
     font-weight: bold;
     color: #fafafa;
 }

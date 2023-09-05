@@ -1,18 +1,18 @@
 footer {
     background-color: #1e1b1b; 
     color: white;
-    padding: 20px;
+    padding: 1.25rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .footer-left h3 {
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 .footer-left p {
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 .footer-center {
@@ -22,10 +22,10 @@ footer {
 
 .footer-center a {
     display: flex;
-    padding: 25px;
+    padding: 1.5625rem;
     color: orangered;
 }
 
 .footer-right p {
-    font-size: 12px;
+    font-size: 0.75rem;
 }
