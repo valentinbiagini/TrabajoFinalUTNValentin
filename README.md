@@ -11,7 +11,7 @@
 
 <h1>Objetivos del Proyecto</h1>
 
-<p>El proyecto se basabe en escojer un modelo de web bussines de la pagina www.beheance.com y copiarlo tal cual se pueda.</p>
+<p>El proyecto se basabe en escojer un modelo de web bussines de la pagina www.beheance.net y copiarlo tal cual se pueda.</p>
 
 <h1>Experiencia Personal</h1>
 
