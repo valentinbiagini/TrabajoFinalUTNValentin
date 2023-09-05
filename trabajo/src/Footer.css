@@ -1,0 +1,31 @@
+footer {
+    background-color: #1e1b1b; 
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left h3 {
+    font-size: 18px;
+}
+
+.footer-left p {
+    font-size: 14px;
+}
+
+.footer-center {
+    display: flex;
+    align-items: center;
+}
+
+.footer-center a {
+    display: flex;
+    padding: 25px;
+    color: orangered;
+}
+
+.footer-right p {
+    font-size: 12px;
+}

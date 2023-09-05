@@ -1,0 +1,65 @@
+/* Estilos para la sección de recetas */
+.recipes-section {
+    text-align: center;
+    background-color: #050505;
+    padding: 20px;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.section-header h2 {
+    font-size: 24px;
+    margin: 0;
+    color: #fafafa;
+}
+
+.section-header a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #fafafa;
+}
+
+
+
+
+
+
+/* Estilos para las tarjetas de recetas */
+.recipe-cards {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.recipe-card {
+    width: 75%; 
+    margin-bottom: 20px;
+    background-color: #1e1b1b;
+    border: 0,5px solid #000000;
+    padding: 10px;
+    text-align: start;
+}
+
+.recipe-card img {
+    width: 250px;
+}
+
+.recipe-card h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.recipe-card h3 a {
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.recipe-card h3 a:hover {
+    text-decoration: underline;
+    color: #1e1b1b;
+}

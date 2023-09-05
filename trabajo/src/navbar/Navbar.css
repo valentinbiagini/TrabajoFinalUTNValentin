@@ -1,0 +1,53 @@
+/* Estilos para la barra de navegación */
+nav {
+    background-color: #1e1b1b; 
+    color: #fafafa;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo a {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fafafa;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fafafa;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.navbar-icons {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.search-icon,
+.cart-icon {
+    width: 24px;
+}
+#search,
+#shop{
+    color: #a16236;
+}
+
+.login-register a {
+    text-decoration: none;
+    color: #fafafa;
+    font-weight: bold;
+    font-size: 16px;
+}
+
