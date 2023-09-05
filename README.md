@@ -11,7 +11,8 @@
 
 <h1>Objetivos del Proyecto</h1>
 
-<p>El proyecto se basabe en escojer un modelo de web bussines de la pagina (https://www.behance.net/search/projects?tracking_source=nav20) y copiarlo tal cual se pueda.</p>
+<p>El proyecto se basabe en escojer un modelo de web bussines de la pagina (https://www.behance.net/search/projects?tracking_source=nav20) y copiarlo tal cual se pueda.
+El modelo de pagina que yo elegi fue este:https://www.behance.net/gallery/114814085/Landing-page-Italian-Bakery-Shop?tracking_source=search_projects|web+bussines</p>
 
 <h1>Experiencia Personal</h1>
 
